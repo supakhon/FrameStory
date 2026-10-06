@@ -1,0 +1,10 @@
+# Sensitive & Configuration files
+.env
+.vscode/
+
+# Python Cache 
+__pycache__/
+*.pyc
+
+# (Optional)
+# story_output.json
